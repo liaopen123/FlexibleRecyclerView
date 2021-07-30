@@ -1,0 +1,2 @@
+rootProject.name = "FlexibleVP2"
+include ':app'
